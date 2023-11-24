@@ -4,8 +4,8 @@
 
 ## Обо мне
 
-![Фото](photo.jpg)
-<img src="photo.jpg" alt="Фото" width="300" height="400">
+<img src="photo.jpg" alt="Фото" style="max-width: 300px; height: auto;">
+
 
 
 
